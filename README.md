@@ -45,14 +45,14 @@ dia de lançamento, descrição e nome do autor para ter mais conhecimento sobre
 
 ## Protótipo de Baixa Fidelidade:
 
-  (![Projeto_baixa_fidelidade_page-0001](https://user-images.githubusercontent.com/122562513/223215458-e7989feb-1d6e-493d-9078-0ecfd6a6f1cb.jpg)
+  ![Projeto_baixa_fidelidade_page-0001]
   
   Protótipo inicial modoficado de acordo com os problemas de usabilidade que foram identificados e as suas soluções:
   
   - Redirecionamento de páginas 
   - Filtros de busca
-  - 
-  - 
+  
+  
 
   
   
