@@ -10,7 +10,6 @@
 ## 2. Histórias de Usuários:
 
 ## 🧙 Personagens:
-<<<<<<< HEAD
 
 Eu, como usuário, gostaria de saber o nome de todos os personagens, sua espécie, gênero,
 data de nascimento, casa de estudo e saber se ele é trouxa ou não para conhecer melhor os personagens.<br/>
@@ -43,4 +42,18 @@ Eu, como usuário, gostaria de ter mais informações sobre todos os livros lan�
 dia de lançamento, descrição e nome do autor para ter mais conhecimento sobre a saga.<br/>
 
 ![alt text](https://http2.mlstatic.com/D_NQ_NP_2X_750536-MLB47441394358_092021-F.webp)
+
+## Protótipo de Baixa Fidelidade:
+
+  ![Projeto_baixa_fidelidade_page-0001](https://user-images.githubusercontent.com/122562513/223215458-e7989feb-1d6e-493d-9078-0ecfd6a6f1cb.jpg)
+  
+  Protótipo inicial modificado de acordo com os problemas de usabilidade que foram identificados e as suas soluções:
+  
+  - Redirecionamento de páginas 
+  - Filtros de busca
+  
+  
+
+  
+  
 
