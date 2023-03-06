@@ -10,7 +10,6 @@
 ## 2. Histórias de Usuários:
 
 ## 🧙 Personagens:
-<<<<<<< HEAD
 
 Eu, como usuário, gostaria de saber o nome de todos os personagens, sua espécie, gênero,
 data de nascimento, casa de estudo e saber se ele é trouxa ou não para conhecer melhor os personagens.<br/>
@@ -71,4 +70,10 @@ dia de lançamento, descrição e nome do autor para ter mais conhecimento sobre
   dia de lançamento, descrição e nome do autor para ter mais conhecimento sobre a saga.<br/>
 
   ![alt text](https://http2.mlstatic.com/D_NQ_NP_2X_750536-MLB47441394358_092021-F.webp)
->>>>>>> 6c7d8aca2b49a7681d34973abcf309b603fbc93c
+
+## Protótipo de Baixa Fidelidade:
+
+  ![alt text](https://trello.com/1/cards/63e3afd36df54fd8f70bd96b/attachments/63e3b0035898427521bf3930/download/Projeto_baixa_fidelidade_page-0001.jpg)
+  
+  
+
