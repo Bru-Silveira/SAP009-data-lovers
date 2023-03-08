@@ -16168,7 +16168,6 @@ export default {
     }
   ],
    
-   
   books: [
     {
       "id": 1,
@@ -16226,5 +16225,5 @@ export default {
       "author": "J. K. Rowling",
       "description": "O segundo filho de Harry entrou em Hogwarts, mas na Sonserina. Seu relacionamento com Harry está piorando e ele se tornou amigo íntimo do filho de Draco, Scorpius Malfoy, que dizem ser filho de Lord Voldemort."
     }
-  ]
+  ],
 }
